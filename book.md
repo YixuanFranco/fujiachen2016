@@ -7,3 +7,5 @@
 
 3. [The Selfish Gene](https://book.douban.com/subject/1777630/)
 	* [汉语版: 自私的基因](https://book.douban.com/subject/1292405/)
+
+4. 推荐 Coursera 上的 `Product design`.
